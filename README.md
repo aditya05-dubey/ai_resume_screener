@@ -2,9 +2,6 @@
 
 An NLP and Machine Learning-based resume screening tool that ranks resumes against a job description using TF-IDF vectorization and cosine similarity. Built with Streamlit for an interactive web interface and Plotly for visual analytics.
 
-**Author:** Lujain Mahesar (2312120)
-**Course:** BSCS 6A | AI Theory Project
-
 ---
 
 ## Features
@@ -28,10 +25,6 @@ An NLP and Machine Learning-based resume screening tool that ranks resumes again
 
 ### Analytics Dashboard
 ![Charts](screenshot2.png)
-
-### Ranked Results
-![Results 1](screenshot3.png)
-![Results 2](screenshot4.png)
 
 ---
 
@@ -104,6 +97,3 @@ Opens at `http://localhost:8501`
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
